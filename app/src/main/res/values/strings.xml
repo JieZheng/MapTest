@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapTest</string>
+    <string name="title_activity_maps">Map Test</string>
+    <string name="no_permission_location">Location permission not bean granted yet.</string>
+    <string name="ok">Ok</string>
+    <string name="location_permission_rationale">"Location access is required to show coffee shops nearby."</string>
+</resources>
